@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+body{
+    background-color: rgb(205, 195, 192);
+}
+.main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.one{
+    width: 250px;
+    height: 350px;
+    background-color:rgb(212, 210, 213);
+    background-image: url(image/ai-generated-8615290_1280.jpg);background-size: cover;
+    padding: 10px;
+
+}
+
+.two{
+    width: 250px;
+    height: 350px;
+    background-color: rgb(212, 210, 213);
+    align-items: start;
+    justify-content: space-between;
+    padding: 10px;
+}
+.two >h2{
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+
+}
