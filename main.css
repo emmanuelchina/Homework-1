@@ -36,3 +36,9 @@ body{
     font-weight: 200;
 
 }
+@media screen and (min-width: 570px) {
+    .one, .two{
+    
+    }
+   
+}
